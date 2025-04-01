@@ -1,0 +1,7 @@
+#Historia de usuario
+
+#Como usuario de Tacherango, quiero poder ingresar mi ubicacion y destino en la app para solicitar un viaje rapidamente y sin complicaciones.
+
+#Como usuario de Tacherango, quiero ver en tiempo real la ubicacion de mi conductor y el tiempo estimado de llegada para planificar mejor mi tiempo.
+
+#Como usuario de Tacherango, quiero poder pagar de forma segura dentro de la app y calificar al conductor para mejorar la experiencia del servicio.
