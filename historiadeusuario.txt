@@ -1,7 +1,10 @@
-#Historia de usuario
+#Historia de usuario y criterios de aceptacion
 
 #Como usuario de Tacherango, quiero poder ingresar mi ubicacion y destino en la app para solicitar un viaje rapidamente y sin complicaciones.
+##Dado que soy un usuario en la aplicacion, cuando ingreso mi ubicacion y destino, encontes el sistema debe calcular y mostrar el costo estimado antes de la confirmacion.
 
 #Como usuario de Tacherango, quiero ver en tiempo real la ubicacion de mi conductor y el tiempo estimado de llegada para planificar mejor mi tiempo.
+##Dado que he confirmado el viaje, cuando el sistema asigne un conductor, entonces debo recibir una notificacion con los datos del conductor.
 
 #Como usuario de Tacherango, quiero poder pagar de forma segura dentro de la app y calificar al conductor para mejorar la experiencia del servicio.
+##Dado que el viaje ha finalizado, cuando accedo a la pantalla de pago, entonces debo ver el costo total y las opciones de pago disponibles.
